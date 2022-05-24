@@ -8,3 +8,5 @@ A simple Express app using Sequelize to access PostgreSQL.
  - Start a PostgreSQL database
  - Set the environment variables for DB_HOST, DB_NAME, DB_USER, DB_PASSWORD
  - Run `node ./server.js`
+
+## Some change
