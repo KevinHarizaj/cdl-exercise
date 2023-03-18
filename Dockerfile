@@ -1,4 +1,4 @@
-FROM node:16-alpine@sha256:8da648aad7e8fd08e4392659e22047145ed9f81ea4c8e00d162b490b05c9a61b
+FROM node:19-alpine@sha256:f487fdae88463b8adba1cc82af1bc93058a4bc2f44c7c5c968958c6460d4c5c3
 
 COPY . .
 RUN npm i
